@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Thomy 👋
 <img align="right" width="35%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```kotlin
