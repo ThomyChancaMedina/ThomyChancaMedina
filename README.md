@@ -1,5 +1,23 @@
 ### Hi there 👋
+<img align="right" width="35%" src="https://media.giphy.com/media/AiPHa8Drgklos/giphy.gif"/>
 
+```kotlin
+private val TAG="Inportant:: "
+
+fun Main() {
+    val name = "Thomy"
+    val surname ="Chanca Medina"
+    val location = "Madrid, Spain"
+    val code = arrayOf("java", "kotlin","and learning swift ->IOS"),
+    val technologies = mutableMapOf(
+        "mobileApp" to arrayOf("Android"),
+        "OS" to arrayOf("Arch Linux"),
+        "databases" to arrayOf("MySql", "Oracle Database", "sqlite"),
+        "misc" to arrayOf("Firebase", "Selenium", "Rx-java", "git")
+    )
+    Log.Info = (TAG,"Develop is my passion")
+}
+```
 <!--
 **ThomyChancaMedina/ThomyChancaMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
