@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" width="35%" src="https://media.giphy.com/media/AiPHa8Drgklos/giphy.gif"/>
+<img align="right" width="35%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```kotlin
 private val TAG="Inportant:: "
