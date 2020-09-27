@@ -13,7 +13,7 @@ fun Main() {
         "mobileApp" to arrayOf("Android"),
         "OS" to arrayOf("Arch Linux"),
         "databases" to arrayOf("MySql", "Oracle Database", "sqlite"),
-        "tools" to arrayOf("Firebase","mockito", "Rx-java", "git")
+        "tools" to arrayOf("Firebase Hosting","github Hosting","Junit test","Jenkins,"mockito", "Rx-java", "git")
     )
     Log.Info = (TAG,"Develop is my passion")
 }
